@@ -1,1 +1,26 @@
+/* Background image for the receiver */
+.background {
+  background: center no-repeat url(https://raw.githubusercontent.com/your-username/your-repo/main/cast1.png);
+}
+
+/* Logo shown when the receiver is launching */
+.logo {
+  background-image: url(https://raw.githubusercontent.com/your-username/your-repo/main/cast2.png);
+}
+
+/* Progress bar for media playback */
+.progressBar {
+  background-color: rgb(238, 255, 65);
+}
+
+/* Splash screen shown when the receiver is in an idle state */
+.splash {
+  background-image: url(https://raw.githubusercontent.com/your-username/your-repo/main/cast3.png);
+}
+
+/* Watermark shown when the media is playing */
+.watermark {
+  background-image: url(https://raw.githubusercontent.com/your-username/your-repo/main/cast1.png);
+  background-size: 57px 57px;
+}
 
